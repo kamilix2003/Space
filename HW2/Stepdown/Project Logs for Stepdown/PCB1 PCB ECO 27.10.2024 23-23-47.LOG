@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found RESC1609X50X30LL10T20
+Added Component: Designator=R3(RESC1608X55X30NL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1583V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *1-J?
+Add Pin To Net: Unknown Pin: Pin *2-J?
+Add Pin To Net: Unknown Pin: Pin *3-J?
+Add Pin To Net: Unknown Pin: Pin *4-J?
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetC5_2 Pin=R3-2
+Add Class Member: Failed to add class member : Component *1 Rounded pad
+Add Class Member: Failed to add class member : Component *2 Rounded pad
+Add Class Member: Failed to add class member : Component *3 Rounded pad
+Add Class Member: Failed to add class member : Component *4 Rounded pad
+Add Class Member: Failed to add class member : Component R2 158k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 30.1k

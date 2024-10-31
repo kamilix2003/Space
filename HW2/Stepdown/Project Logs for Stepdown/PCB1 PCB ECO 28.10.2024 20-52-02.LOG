@@ -1,0 +1,13 @@
+Add Pin To Net: Unknown Pin: Pin *1-J?
+Add Pin To Net: Unknown Pin: Pin *2-J?
+Add Pin To Net: Unknown Pin: Pin *3-J?
+Add Pin To Net: Unknown Pin: Pin *4-J?
+Change Net Name : Old Net Name=NetC1_1 New Net Name=BST
+Change Net Name : Old Net Name=NetC1_2 New Net Name=SW
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VIN
+Change Net Name : Old Net Name=NetC4_1 New Net Name=EN
+Change Net Name : Old Net Name=NetC5_2 New Net Name=FB
+Add Class Member: Failed to add class member : Component *1 Rounded pad
+Add Class Member: Failed to add class member : Component *2 Rounded pad
+Add Class Member: Failed to add class member : Component *3 Rounded pad
+Add Class Member: Failed to add class member : Component *4 Rounded pad
